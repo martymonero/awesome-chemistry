@@ -112,6 +112,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ChemOS](https://chemos.ai/) – Orchestration system for self-driving laboratories.
 - [Labguru](https://www.labguru.com/) – Electronic lab notebook (ELN) and lab management system.
 - [Benchling](https://www.benchling.com/) – Cloud-based ELN and collaboration platform for life sciences.
+- [Chempirical](https://chempirical.com/) – Free browser chemical inventory with GHS hazards, TRGS 510 storage classes and a printable hazardous substances register, alongside a structure editor and compound pages.
 
 ## Visualization & Plotting
 
